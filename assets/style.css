@@ -1,4 +1,4 @@
-*{
+* {
     margin: 0;
     padding: 0;
 }
@@ -37,6 +37,6 @@ p {
 .card {
     width: 80%;
     margin: 40px auto;
-    border: 5px solid gray;
-    box-shadow: 5px 10px #330808;
+    border: 5px solid rgb(150, 15, 26);
+    box-shadow: 5px 10px #251455;
 }
